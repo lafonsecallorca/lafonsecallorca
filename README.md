@@ -15,7 +15,7 @@ I'm Laura Fonseca, a devoted coder and tech enthusiast. Welcome to my GitHub pro
 - 🚀 Frameworks: Flask, FastAPI
 - 🛠 Tools: Git, Postman
 - 🧠 Currently exploring: Machine Learning, Data Science
-- 
+  
 ## Let's Connect!
 
 - 📫 Reach me at lafonsecallorca@gmail.com
