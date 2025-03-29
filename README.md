@@ -12,7 +12,7 @@ I'm Laura Fonseca, a devoted coder and tech enthusiast. Welcome to my GitHub pro
 ## Tech Stack
 
 - 💻 Languages: Python, Java, HTML, CSS
-- 🚀 Frameworks: Flask, FastAPI
+- 🚀 Frameworks: Flask, FastAPI, LangGraph
 - 🛠 Tools: Git, Postman
 - 🧠 Currently exploring: Machine Learning, Data Science
   
